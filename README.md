@@ -1,4 +1,4 @@
-## Take home project
+## Coding challenge 
 
 Your assignment is to build a single game of [Sudoku](https://en.wikipedia.org/wiki/Sudoku) in the browser using React.
 
