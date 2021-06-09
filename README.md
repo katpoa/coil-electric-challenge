@@ -12,7 +12,7 @@ The product requirements are as follows:
   - a row contains duplicate numbers
   - one of the nine 3x3 subgrids that compose the grid contains duplicate numbers
 * If there are no errors on the board and the board is unfinished, no message should be displayed and any existing error message should be cleared when the user checks their answers.
-* If there are no errors on the board and the board is finished, the player should be shown a message with the text "Completed!" when the the user checks their answers.
+* If there are no errors on the board and the board is finished, the player should be shown a message with the text "Completed!" when the user checks their answers.
 
 Below you can find a valid starting board as well as the correct answers to validate against. Do not spend time creating your own board and answer set.
 
